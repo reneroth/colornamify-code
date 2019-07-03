@@ -2,7 +2,7 @@
 	"name": "colornamify-code",
 	"displayName": "colornamify-code",
 	"description": "Thinks of names for colors.",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"icon": "icon.png",
 	"publisher": "reneroth",
 	"engines": {
@@ -28,15 +28,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/reneroth/colornamify-code.git"
+		"url": "https://github.com/reneroth/colornamify-code.git"
 	},
 	"devDependencies": {
-		"vscode": "^1.1.28",
-		"eslint": "^5.12.1"
+		"vscode": "^1.1.35",
+		"eslint": "^6.0.1"
 	},
 	"dependencies": {
-		"clipboardy": "^1.2.3",
-		"colornamify": "^1.0.3",
+		"clipboardy": "^2.1.0",
+		"colornamify": "^1.1.4",
 		"pigment": "^0.1.0"
 	}
 }
