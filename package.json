@@ -35,7 +35,7 @@
 		"vscode": "^0.9.9"
 	},
 	"dependencies": {
-		"clipboardy": "^2.3.0",
+		"clipboardy": "^3.0.0",
 		"colornamify": "^1.1.5",
 		"pigment": "^0.1.0"
 	}
